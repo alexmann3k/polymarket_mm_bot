@@ -1,0 +1,37 @@
+# Secrets and local environment overrides
+.env
+.env.*
+!.env.example
+*.secret
+*.secrets
+secrets/
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# IDE and local tooling metadata
+.idea/
+.vscode/
+.qodo/
+*.iml
+
+# Logs and runtime-generated state
+*.log
+*.csv
+*.data
+data/
+runtime/
+.test-tmp/
+
+# Temporary/editor files
+*.tmp
+*.bak
+*.swp
