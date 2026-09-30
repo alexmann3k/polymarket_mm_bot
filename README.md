@@ -258,3 +258,6 @@ API-Verträge wurden mit dem installierten SDK und offiziellen Quellen abgeglich
 [Order-Status und Einheiten](https://docs.polymarket.com/api-reference/trade/get-single-order-by-id),
 [Stornoantworten](https://docs.polymarket.com/api-reference/trade/cancel-single-order),
 [Heartbeat und Order-Patterns](https://github.com/Polymarket/agent-skills/blob/main/order-patterns.md).
+
+
+AI-assisted development: AI coding tools were used for parts of the implementation, refactoring, and testing. The trading logic, system design, risk rules, and final review were developed and validated by the author.
